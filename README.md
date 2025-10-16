@@ -8,7 +8,7 @@ Node: Version 24.9.0
 <h5>1. Clone the repository:</h5>
 git clone https://github.com/divyaanup/stockroom.git
 <h5>2. Application structure</h5>
-```
+'''
 <h5>In the backend folder rename env.example to .env</h5>
 /***** Important Root Folder ****/
 
